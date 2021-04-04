@@ -46,10 +46,13 @@
   margin: 0;
   padding: 0px;
 }
-.ul-block-list-item, .block-h3 {
+.ul-block-list-item,
+.block-h3 {
   list-style: none;
 }
-.task-input, .input-checkbox,.btn {
+.task-input,
+.input-checkbox,
+.btn {
   outline: none;
 }
 .btn {
