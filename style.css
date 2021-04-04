@@ -11,6 +11,7 @@
   text-align: right;
 }
 .matrix-description .matrix-img {
+  display: block;
   width: 100%;
 }
 .matrix-description .info-link {
@@ -28,6 +29,10 @@
   display: block;
   width: 500px;
   margin: 0 auto 0;
+}
+.add-item-block {
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 .task-input {
   width: 56%;
