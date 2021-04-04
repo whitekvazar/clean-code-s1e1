@@ -4,24 +4,24 @@ body {
   color: #333;
   font-family: "Lato", sans-serif;
 }
-.elsenhover-matrix-description {
+.matrix-description {
   width: 500px;
   margin: 0 auto;
   display: block;
   text-align: right;
 }
-.elsenhover-matrix-description img {
+.matrix-description img {
   width: 100%;
 }
-.elsenhover-matrix-description .information-link {
+.matrix-description .info-link {
   font-family: "fantasy", cursive;
 }
 
 @media (max-width:768px) {
-.elsenhover-matrix-description { text-align: center;
+.matrix-description { text-align: center;
 }
 }
-.main-page-section {
+.main-section {
   display: block;
   width: 500px;
   margin: 0 auto 0;
@@ -133,7 +133,7 @@ button.delete-button img:hover {
 }
 
 /* Completed */
-ul#completed-tasks-block label {
+ul#completed-block label {
   text-decoration: line-through
   color: #888;
 }
